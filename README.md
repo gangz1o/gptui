@@ -11,9 +11,9 @@ A modern UI makeover for NP-based torrent sites.
 
 ## 🌸 UI 效果图 | Preview
 
-![UI 示例图 1](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWg2fzpYIrwaWoWPyU3CXBTq8LrkvHAALvvzEbgjagV7aUppnMSlSyAQADAgADdwADNgQ.png)  
-![UI 示例图 2](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWhGfzphq7JYJ7iVKbDN7ZCtx6thmHAALxvzEbgjagV09uhWJP8UR-AQADAgADdwADNgQ.png)  
-![UI 示例图 3](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWhWfzpi-6U8SKQ1kCvy1HigwbUa8EAALyvzEbgjagV955aT_3a1nCAQADAgADdwADNgQ.png)
+![UI 示例图 1](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWhmfzq0li-57DO_krjsnXmB0HQ8KNAAL8vzEbgjagV091CHebyu3wAQADAgADdwADNgQ.png)  
+![UI 示例图 2](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWh2fzq2dKLqCYzKlH-QSfeUihKGrwAAL9vzEbgjagVw265RJMh-_VAQADAgADdwADNgQ.png)  
+![UI 示例图 3](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWiGfzq4dLDP2XBxjfzuc2zlF0IhQLAAL-vzEbgjagVyTlgy0PPtBLAQADAgADdwADNgQ.png)
 
 ---
 
