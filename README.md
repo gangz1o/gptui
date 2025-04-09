@@ -9,6 +9,11 @@ A modern UI makeover for NP-based torrent sites.
 
 ---
 
+## 🛰️ 不支持站点 |  Not Support Sites
+
+- 憨憨
+- 猫站
+
 ## 🌸 UI 效果图 | Preview
 
 ![UI 示例图 1](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWhmfzq0li-57DO_krjsnXmB0HQ8KNAAL8vzEbgjagV091CHebyu3wAQADAgADdwADNgQ.png)  
