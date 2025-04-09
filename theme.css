@@ -33,6 +33,10 @@ ul.menu {
 	margin-bottom: 8px !important;
 }
 
+ul#usercpmenu>li>a{
+  background: transparent !important;
+}
+
 table#info_block>tbody>tr {
 	display: block !important;
 	background-color: #f5f5f5;
@@ -1076,7 +1080,7 @@ a {
 .ddsubmenustyle, .ddsubmenustyle div {
 	font: -apple-system-body;
  /* 使用苹果系统字体 */
-	margin-top: 8px;
+	margin: 0;
 	padding: 0;
 	position: absolute;
 	top: 0;
@@ -1100,18 +1104,16 @@ a {
 }
 
 .ddsubmenustyle ul {
-	margin: 0;
- /* 增加垂直间距 */
-	padding: 0;
+
 	position: relative;
-  top: -8px !important;
+  top: -12px !important;
  /* 相对定位 */
 	list-style-type: none;
 }
 
 .ddsubmenustyle ul li {
-	margin: 0;
-	padding-top: 8px !important;
+	margin-top: 4px !important;
+	padding-top:10px  !important;
 }
 
 .ddsubmenustyle li a {
@@ -1142,19 +1144,6 @@ a {
 /* 激活状态 */
 .ddsubmenustyle li a:active {
 	background-color: rgba(0, 122, 255, 0.2);
-}
-
-/* 子菜单指示器 */
-.ddsubmenustyle li.has-submenu > a::after {
-	content: "→";
-	float: right;
-	color: rgba(0, 0, 0, 0.5);
-	font-size: 12px;
-}
-
-.ddmenu:hover .ddsubmenustyle,
-.ddsubmenustyle:hover {
-	display: block !important;
 }
 
 td.embedded > a > span {
