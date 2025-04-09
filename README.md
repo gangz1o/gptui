@@ -1,4 +1,4 @@
-# 🎨 np-custome-ui  
+# 🎨 gangz1o-pt-ui  
 
 为 NP 架构站点打造现代化 UI，优化视觉体验  
 A modern UI makeover for NP-based torrent sites.
@@ -21,7 +21,7 @@ A modern UI makeover for NP-based torrent sites.
 
 ### ✨ 项目简介
 
-`np-custome-ui` 是一个专为 NP 架构站点设计的 UI 美化样式，采用毛玻璃、圆角、阴影、响应式设计，整体风格贴近 macOS/iOS 的现代审美。
+`gptui` 是一个专为 NP 架构站点设计的 UI 美化样式，采用毛玻璃、圆角、阴影、响应式设计，整体风格贴近 macOS/iOS 的现代审美。
 
 ---
 
@@ -45,7 +45,7 @@ A modern UI makeover for NP-based torrent sites.
 1. 安装插件后打开 Stylish 页面；
 2. 在「Domains」中添加目标站点域名；
 3. 粘贴以下 CSS 代码并保存样式：
-👉 [获取 CSS 样式](https://github.com/gangz1o/np-custome-ui/blob/master/theme.css)
+👉 [获取 CSS 样式](https://github.com/gangz1o/gptui/blob/master/theme.css)
 
 #### 🖼 插件操作截图：
 
@@ -73,7 +73,7 @@ MIT License © 2025
 
 ### ✨ About
 
-`np-custome-ui` is a clean and modern stylesheet tailored for NP-based torrent tracker UIs. It brings a modern look with features like glassmorphism, rounded corners, shadows, and clean layout — heavily inspired by macOS/iOS design language.
+`gptui` is a clean and modern stylesheet tailored for NP-based torrent tracker UIs. It brings a modern look with features like glassmorphism, rounded corners, shadows, and clean layout — heavily inspired by macOS/iOS design language.
 
 ---
 
@@ -97,7 +97,7 @@ You can apply the stylesheet in two different ways:
 1. Open Stylish after installation;
 2. Add the domain you want to style under the "Domains" section;
 3. Paste the CSS code from below and save:
-👉 [Get CSS Stylesheet](https://github.com/gangz1o/np-custome-ui/blob/master/theme.css)
+👉 [Get CSS Stylesheet](https://github.com/gangz1o/gptui/blob/master/theme.css)
 
 #### 🖼 Screenshots:
 
