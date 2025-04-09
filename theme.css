@@ -2600,7 +2600,8 @@ img.comments{
     no-repeat center !important;
 }
 
-img.sticky
+img.sticky,
+img.sticky2
 {
   width: 16px;
   height: 16px;
