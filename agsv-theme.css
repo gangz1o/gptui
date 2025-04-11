@@ -302,6 +302,13 @@ td.embedded > table > tbody > tr > td.text {
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;
 }
 
+h2+table td[width="100%"]{
+  background-color: #f5f5f5 !important;
+	color: #000 !important;
+	border-radius: 10px !important;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
 td.comment {
 	padding: 10pt;
 	text-align: left;
