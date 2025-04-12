@@ -900,28 +900,6 @@ a {
     color: #10b981 !important;
 }
 
-/* .ddsubmenustyle li.divider {
-    height: 1px !important;
-    margin: 8px 0 !important;
-    background-color: rgba(0, 0, 0, 0.1) !important;
-}
-
-.ddsubmenustyle li a:active {
-    background-color: rgba(0, 122, 255, 0.2) !important;
-}
-
-.ddsubmenustyle li.has-submenu > a:after {
-    content: '→' !important;
-    float: right !important;
-    color: rgba(0, 0, 0, 0.5) !important;
-    font-size: 12px !important;
-}
-
-.ddmenu:hover .ddsubmenustyle,
-.ddsubmenustyle:hover {
-    display: block !important;
-}     */
-
 td.embedded > a > span,
 td.embedded > span {
 	display: inline-flex;
