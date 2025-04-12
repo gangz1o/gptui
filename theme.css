@@ -49,24 +49,6 @@ ul.menu li.selected a {
 	font-size: 16px !important;
 }
 
-.ddsubmenustyle,
-.ddsubmenustyle div {
-	margin: 0;
-}
-
-.ddsubmenustyle ul {
-	top: -12px !important;
-}
-
-.ddsubmenustyle ul li {
-	margin-top: 4px !important;
-	padding-top: 10px !important;
-}
-
-.ddsubmenustyle li a:hover {
-	color: #007aff;
-}
-
 .downarrowpointer {
 	vertical-align: middle !important;
 }
@@ -876,12 +858,6 @@ a {
 
 .ddsubmenustyle,
 .ddsubmenustyle div {
-    font: -apple-system-body !important;
-    margin-top: 8px !important;
-    padding: 0 !important;
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
     list-style-type: none !important;
     background: hsla(0, 0%, 100%, 0.98) !important;
     border: none !important;
