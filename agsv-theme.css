@@ -49,23 +49,6 @@ ul.menu li.selected a {
 	font-size: 16px !important;
 }
 
-.ddsubmenustyle,
-.ddsubmenustyle div {
-	margin: 0;
-}
-
-.ddsubmenustyle ul {
-	top: -12px !important;
-}
-
-.ddsubmenustyle ul li a{
-	padding:5px !important;
-}
-
-.ddsubmenustyle li a:hover {
-	color: #007aff;
-}
-
 .downarrowpointer {
 	vertical-align: middle !important;
 }
@@ -905,12 +888,6 @@ a {
 
 .ddsubmenustyle,
 .ddsubmenustyle div {
-    font: -apple-system-body !important;
-    margin-top: 8px !important;
-    padding: 0 !important;
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
     list-style-type: none !important;
     background: hsla(0, 0%, 100%, 0.98) !important;
     border: none !important;
@@ -952,28 +929,6 @@ a {
     background-color: rgba(0, 122, 255, 0.1) !important;
     color: #10b981 !important;
 }
-
-/* .ddsubmenustyle li.divider {
-    height: 1px !important;
-    margin: 8px 0 !important;
-    background-color: rgba(0, 0, 0, 0.1) !important;
-}
-
-.ddsubmenustyle li a:active {
-    background-color: rgba(0, 122, 255, 0.2) !important;
-}
-
-.ddsubmenustyle li.has-submenu > a:after {
-    content: '→' !important;
-    float: right !important;
-    color: rgba(0, 0, 0, 0.5) !important;
-    font-size: 12px !important;
-}
-
-.ddmenu:hover .ddsubmenustyle,
-.ddsubmenustyle:hover {
-    display: block !important;
-}     */
 
 td.embedded > a > span,
 td.embedded > span {
