@@ -39,9 +39,11 @@ A modern UI makeover for NP-based torrent sites.
 
 #### 📁 方法一：服务器端替换 CSS 文件
 
-1. 登录服务器，前往目录：/项目根目录/public/styles/[主题文件夹]/
-2. 替换其中的 `theme.css` 文件。
-3. 重启服务或刷新浏览器即可生效。
+1. 登录服务器，前往目录：/项目根目录/public/styles/
+2. 复制其中的一个主题文件夹 例如 Classic， 修改为你想要的主题名称
+3. 复制本项目的`theme.css`替换其中的 `theme.css` 文件
+4. 前往数据库在 `stylesheet` 表新增一条对应记录
+5. 重启服务或刷新浏览器即可生效
 
 #### 🌐 方法二：使用浏览器插件 Stylish（推荐）
 
@@ -91,9 +93,11 @@ You can apply the stylesheet in two different ways:
 
 #### 📁 Option 1: Server-side CSS Replacement
 
-1. Log into your server and go to:  /rootdir/public/styles/[theme folder]/
-2. Replace the `theme.css` file.
-3. Restart the server or refresh the browser to apply.
+1. Log in to the server and go to the directory: /project root directory/public/styles/.
+2. Copy one of the theme folders, for example, Classic, and rename it to the theme name you want.
+3. Copy the `theme.css` of this project and replace the `theme.css` file in it.
+4. Go to the database and add a corresponding record to the `stylesheet` table.
+5. Restart the service or refresh the browser to take effect.
 
 #### 🌐 Option 2: Use Stylish Extension (Recommended)
 
