@@ -16,6 +16,7 @@ A modern UI makeover for NP-based torrent sites.
 - 春天
 - TTG
 - 象站
+- 皇后
 
 ## 🌸 UI 效果图 | Preview
 
