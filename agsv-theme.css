@@ -27,6 +27,7 @@ table.torrents td.colhead {
 }
 
 .btn,
+button,
 .buton2,
 .outer input[type='button'],
 .outer input[type='file'],
@@ -463,6 +464,7 @@ ul.magic li:hover{
 }
 
 .btn,
+button,
 .buton2,
 .outer input[type='button'],
 .outer input[type='file'],
@@ -479,6 +481,7 @@ ul.magic li:hover{
 
 .btn2:hover,
 .btn:hover,
+button:hover,
 .outer input[type='button']:hover,
 .outer input[type='file']:hover,
 .outer input[type='submit']:hover {
@@ -961,9 +964,14 @@ td.embedded > table.torrents {
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
+div#ka table tbody tr,
+div#ka1 table tbody tr,
+div#ka2 table tbody tr,
+div#ka3 table tbody tr,
+div#ka4 table tbody tr, 
 td.embedded > table.torrents > tbody > tr:nth-child(n + 2) > td {
 	padding: 8px !important;
-	border-bottom: 1px solid #f5f5f5;
+	border-bottom: 1px solid #cccccc;
 }
 
 td.embedded > table.torrents > tbody > tr:last-child > td {
