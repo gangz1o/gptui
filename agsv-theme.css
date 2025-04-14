@@ -58,14 +58,6 @@ td.embedded > a > span {
 	margin-top: 8px !important;
 }
 
-@font-face {
-	font-family: Source Han Sans;
-	src: url(/fonts/SourceHanSansSC-Regular.woff2) format('woff2'),
-		url(/fonts/SourceHanSansSC-Regular.woff) format('woff');
-	font-weight: 400;
-	font-display: swap;
-}
-
 body {
 	margin-top: 0;
 	margin-bottom: 0;
@@ -76,7 +68,7 @@ body {
 	background-repeat: repeat-y !important;
 	height: 100vh;
 	width: 100%;
-	font-family: Arial, Consolas, monospace !important;
+	font-family: tahoma, arial, helvetica, sans-serif !important;
 	text-shadow: none !important;
 }
 
@@ -259,7 +251,9 @@ div#invitenav>form{
   bottom: -30px !important;
 }
 
-div#invitenav ul li a{
+div#invitenav ul li a,
+div#logmenu ul li a
+{
   background: transparent !important;
   border: none !important;
 }
