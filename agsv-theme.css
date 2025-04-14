@@ -254,6 +254,16 @@ td.shoutrow {
 	border: none;
 }
 
+div#invitenav>form{
+  top: unset  !important;
+  bottom: -30px !important;
+}
+
+div#invitenav ul li a{
+  background: transparent !important;
+  border: none !important;
+}
+
 td.bottom > form {
 	display: none;
 }
