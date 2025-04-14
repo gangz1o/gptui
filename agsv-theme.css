@@ -295,6 +295,20 @@ h2+table td[width="100%"]{
 	font-weight: 400;
 }
 
+/*发布种子*/
+div#ka table tbody tr td.rowfollow,
+div#ka1 table tbody tr td.rowfollow,
+div#ka2 table tbody tr td.rowfollow,
+div#ka3 table tbody tr td.rowfollow,
+div#ka4 table tbody tr td.rowfollow {
+    	background-color: transparent !important;
+    	color: #000 !important;
+    	border-radius: 0 !important;
+    	box-shadow: none !important;
+    	font-size: 14px !important;
+    	font-weight: 400;
+}
+
 td.comment {
 	padding: 10pt;
 	text-align: left;
