@@ -953,7 +953,8 @@ td.embedded > table.torrents > tbody > tr:last-child > td {
 	border-bottom: none !important;
 }
 /*修复观众 progress bar 错位问题*/
-td.embedded > table.torrents > tbody > tr.sticky_web> td.rowfollow.torrents-box{
+td.embedded > table.torrents > tbody > tr.sticky_web> td.rowfollow.torrents-box,
+td.embedded > table.torrents > tbody > tr > td.rowfollow.torrents-box {
   padding: 0 !important;
 }
 
