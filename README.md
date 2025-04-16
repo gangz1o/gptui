@@ -9,7 +9,7 @@ A modern UI makeover for NP-based torrent sites.
 
 ---
 
-## 🛰️ 不支持站点 |  Not Support Sites
+## 🛰️ 插件不支持站点 | Plugin Not Support Sites
 
 - 憨憨
 - 猫站
