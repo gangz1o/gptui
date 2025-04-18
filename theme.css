@@ -206,6 +206,16 @@ input#shbox_text {
 	outline: 0;
 }
 
+table.searchbox tbody#ksearchboxmain tr td.rowfollow table tbody tr td{
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px; /* 垂直间距16px，水平间距24px */
+  justify-content: center;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
 input#shbox_text {
 	height: 24px;
 }
