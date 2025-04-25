@@ -1,6 +1,6 @@
 # 🎨 gangz1o-pt-ui  
 
-为 NP 架构站点打造现代化 UI，优化视觉体验  
+为 NP 架构站点打造现代化 UI，优化视觉体验  图标, 布局, 动画, 全新设计
 A modern UI makeover for NP-based torrent sites.
 
 ---
@@ -20,10 +20,11 @@ A modern UI makeover for NP-based torrent sites.
 
 ## 🌸 UI 效果图 | Preview
 
-![UI 示例图 1](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWhmfzq0li-57DO_krjsnXmB0HQ8KNAAL8vzEbgjagV091CHebyu3wAQADAgADdwADNgQ.png)  
-![UI 示例图 2](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWh2fzq2dKLqCYzKlH-QSfeUihKGrwAAL9vzEbgjagVw265RJMh-_VAQADAgADdwADNgQ.png)  
-![UI 示例图 3](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWiGfzq4dLDP2XBxjfzuc2zlF0IhQLAAL-vzEbgjagVyTlgy0PPtBLAQADAgADdwADNgQ.png)
-
+![UI 示例图 1](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWpWgLY_wwFey9ZZZshFkwOAt88qBZAAIhxjEbNadgVHOTBvqJTAW5AQADAgADdwADNgQ.png)  
+![UI 示例图 2](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWpmgLZED7p2VmoASh1NTBOZrsJfmpAAIixjEbNadgVDbuO9wszDdCAQADAgADdwADNgQ.png)  
+![UI 示例图 3](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWp2gLZZ_Mh-ozrEt2EZnOvP7EuwfcAAIkxjEbNadgVPNeA-s8l703AQADAgADdwADNgQ.png)
+![UI 示例图 4](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWqGgLZdEbPgyRStTXjxHU68b6dgXBAAIlxjEbNadgVGT4KxcxppE2AQADAgADdwADNgQ.png)
+![UI 示例图 5](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWqWgLZk4JT3tNWP4iWyYFawe2luZvAAImxjEbNadgVIXJ-2BqEAq3AQADAgADdwADNgQ.png)
 ---
 
 ## 🈶 中文说明 | Chinese Guide
