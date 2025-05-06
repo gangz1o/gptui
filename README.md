@@ -8,15 +8,6 @@ A modern UI makeover for NP-based torrent sites.
 
 ---
 
-## 🛰️ 插件不支持站点 | Plugin Not Support Sites
-
-- 憨憨
-- 猫站
-- 春天
-- TTG
-- 象站
-- 皇后
-
 ## 🌸 UI 效果图 | Preview
 
 ![UI 示例图 1](https://pic.areyouok.tech/file/AgACAgUAAyEGAASNGeNOAAIWpWgLY_wwFey9ZZZshFkwOAt88qBZAAIhxjEbNadgVHOTBvqJTAW5AQADAgADdwADNgQ.png)  
